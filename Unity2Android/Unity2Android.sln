@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{3A44B1AE-DED0-06B9-9513-8DF87FAD6D3D}") = "Unity2Android", "Assembly-CSharp.csproj", "{2BFE0006-12C4-2E50-DC54-14C75EA5623F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BFE0006-12C4-2E50-DC54-14C75EA5623F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BFE0006-12C4-2E50-DC54-14C75EA5623F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BFE0006-12C4-2E50-DC54-14C75EA5623F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BFE0006-12C4-2E50-DC54-14C75EA5623F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
